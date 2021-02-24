@@ -5,3 +5,4 @@ Agriculture vehicle renting system is basically made to provide a platform for r
 The product will work as a complete user interface for renting system. Agriculture renting system can be used by any existing or new vehicles to manage renting system.
 
 ## To Run Application
+1. Make sure that you have installed LAMP or WAMP
