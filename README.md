@@ -5,4 +5,11 @@ Agriculture vehicle renting system is basically made to provide a platform for r
 The product will work as a complete user interface for renting system. Agriculture renting system can be used by any existing or new vehicles to manage renting system.
 
 ## To Run Application
-1. Make sure that you have installed LAMP or WAMP
+1. Make sure that you have installed XAMPP
+    - If not, please follow below steps
+      - Download the installation package from [Here](https://www.apachefriends.org/index.html)
+      - Make the installation package executable
+        ```bash
+        pip install foobar
+        ```
+2.
