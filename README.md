@@ -37,3 +37,19 @@ The product will work as a complete user interface for renting system. Agricultu
 4. Done
 
 ## Screenshots
+<p>
+    <img alt="Home Page" src="https://raw.githubusercontent.com/pandavshyam/Agriculture-Vehicle-Renting-System/master/Screenshots/IndexPage.png" width="400px" height="300px"/>&nbsp;&nbsp;&nbsp;
+    <img alt="Registration Page" src="https://raw.githubusercontent.com/pandavshyam/Agriculture-Vehicle-Renting-System/master/Screenshots/RegistrationForm.png" width="400px" height="300px"/>
+</p>
+
+<p>
+    <img alt="User Home Page" src="https://raw.githubusercontent.com/pandavshyam/Agriculture-Vehicle-Renting-System/master/Screenshots/UserHome.png" width="400px" height="300px"/>&nbsp;&nbsp;&nbsp;
+    <img alt="Booking Page" src="https://raw.githubusercontent.com/pandavshyam/Agriculture-Vehicle-Renting-System/master/Screenshots/Booking.png" width="400px" height="300px"/>
+</p>
+
+<p>
+    <img alt="User Home Page" src="https://raw.githubusercontent.com/pandavshyam/Agriculture-Vehicle-Renting-System/master/Screenshots/ContactUsPage.png" width="400px" height="300px"/>
+</p>
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
