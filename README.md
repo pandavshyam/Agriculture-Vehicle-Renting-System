@@ -10,6 +10,28 @@ The product will work as a complete user interface for renting system. Agricultu
       - Download the installation package from [Here](https://www.apachefriends.org/index.html)
       - Make the installation package executable
         ```bash
-        pip install foobar
+        $ chmod 755 [package name]
         ```
-2.
+        Example
+        ```bash
+        $ chmod 755 xampp-linux-x64-7.2.10-0-installer.run
+        ```
+      - Launch the Setup Wizard
+        ```bash
+        sudo ./xampp-linux-7.2.10-0-installer.run
+        ```
+      - Follow steps given on screen
+      -  Launch XAMPP through the Terminal
+            ```bash
+            $ sudo /opt/lampp/lampp start
+            ```
+      - Verify Installation - Open any Browser and type URL given below
+        ```bash
+        http://localhost
+        ```
+       - Done
+2. Move dowloaded project files to ``` opt/lampp/htdocs/[project directory] ```
+3. Open any Browser and type URL given below
+    ```bash
+    http://localhost/[project directory name]
+4. Done
