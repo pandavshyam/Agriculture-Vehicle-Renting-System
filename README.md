@@ -35,3 +35,5 @@ The product will work as a complete user interface for renting system. Agricultu
     ```bash
     http://localhost/[project directory name]
 4. Done
+
+## Screenshots
